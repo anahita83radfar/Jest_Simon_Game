@@ -1,0 +1,22 @@
+{
+  "name": "jest_simon_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anahita83radfar/Jest_Simon_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anahita83radfar/Jest_Simon_Game/issues"
+  },
+  "homepage": "https://github.com/anahita83radfar/Jest_Simon_Game#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
